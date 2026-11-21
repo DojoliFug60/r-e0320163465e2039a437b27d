@@ -1,1 +1,2 @@
 activity-day:20778 claimed mrdoob/three.js 19b9afcced70
+activity-day:20778 done mrdoob/three.js b7b1081992d6
